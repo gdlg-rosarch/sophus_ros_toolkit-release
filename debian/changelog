@@ -1,0 +1,7 @@
+ros-indigo-sophus-ros-conversions (0.1.0-1saucy) saucy; urgency=high
+
+  * eigen/sophus <-> geometry_msg conversions
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 09 Feb 2016 15:00:00 -0000
+
+

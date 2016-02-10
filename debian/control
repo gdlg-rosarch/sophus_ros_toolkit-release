@@ -1,0 +1,12 @@
+Source: ros-indigo-sophus-ros-conversions
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-ecl-build, ros-indigo-geometry-msgs, ros-indigo-sophus
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-sophus-ros-conversions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cmake-modules, ros-indigo-ecl-build, ros-indigo-geometry-msgs, ros-indigo-sophus
+Description: Conversions between ros and sophus.

@@ -1,3 +1,26 @@
+## sophus_ros_toolkit (indigo) - 0.1.2-0
+
+The packages in the `sophus_ros_toolkit` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --edit-track --track indigo --rosdistro indigo sophus_ros_toolkit` on `Tue, 30 Aug 2016 12:44:17 -0000`
+
+The `sophus_ros_conversions` package was released.
+
+Version of package(s) in repository `sophus_ros_toolkit`:
+
+- upstream repository: https://github.com/stonier/sophus_ros_toolkit.git
+- release repository: https://github.com/yujinrobot-release/sophus_ros_toolkit-release.git
+- rosdistro version: `0.1.1-0`
+- old version: `0.1.1-0`
+- new version: `0.1.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## sophus_ros_toolkit (indigo) - 0.1.1-0
 
 The packages in the `sophus_ros_toolkit` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo sophus_ros_toolkit` on `Thu, 11 Feb 2016 09:03:59 -0000`
